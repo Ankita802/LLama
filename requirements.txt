@@ -1,0 +1,6 @@
+uvicorn
+ctransformers
+ipykernel
+langchain
+streamlit
+python-box
